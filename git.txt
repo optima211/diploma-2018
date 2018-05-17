@@ -1,0 +1,28 @@
+сщздать репозиторий в папке
+git init
+добавить файл (или добавить все файлы в папке git add .)
+git add README.md
+добавить комит
+git commit -m "first commit"
+подключиться к веб-репозиторию "geo"
+git remote add origin https://github.com/optima211/geo.git
+залить на сервер
+git push -u origin master
+получить с сервера
+git fetch
+получить с ервера в папку
+git pull
+плучить по ссылке 
+git clone <ссылка>
+статус файлов
+git status
+помощь
+git help
+*доп справка
+git-help
+настройки
+git config
+все настройки
+git config -list
+справка о команде
+git help <команда по которой нужна справка>
